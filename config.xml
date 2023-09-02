@@ -13,21 +13,21 @@
 					<lastsentence>
 						<description>AutoComplete</description>
 						<location>C:\அறி\PhraseExpress\autolearn.pxp</location>
-						<guid>80D1D81A-3846-495B-BFA2-9112B3ACF19A</guid>
+						<guid>3FD569EE-B055-4E09-87C2-4D19172246FD</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</lastsentence>
 					<lastused>
 						<description>Last Used</description>
 						<location>C:\அறி\PhraseExpress\lastused.pxp</location>
-						<guid>6E2BED68-3167-405B-8ADD-1B62CFA2D0AF</guid>
+						<guid>A9CCC272-163D-4A65-AE8F-245C3CB5739E</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</lastused>
 					<file>
 						<description>Local phrase file</description>
 						<location>C:\அறி\PhraseExpress\phrases.pxp</location>
-						<guid>3E02988D-7696-4BFE-A52E-7282940FC0FF</guid>
+						<guid>540DBB3E-A586-4F6C-A3FA-60E30BE863D1</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</file>
@@ -48,8 +48,8 @@
 			<SaveHistoryPaths/>
 		</PhraseFile>
 		<Other>
-			<DateOfFirstUse10>45156,1447637731</DateOfFirstUse10>
-			<DateOfFirstUseHash10>9A21E0C969258C35EB60113A2CFD0918</DateOfFirstUseHash10>
+			<DateOfFirstUse10>45170,9919986921</DateOfFirstUse10>
+			<DateOfFirstUseHash10>B14600061A7FF4278B36FA169DC7D9E5</DateOfFirstUseHash10>
 			<PayOff>49,95</PayOff>
 			<PaidOff>0</PaidOff>
 			<Version>14.0.167</Version>
@@ -65,7 +65,7 @@
 			<SmallSentence>1</SmallSentence>
 			<NumberSentence>0</NumberSentence>
 			<SpecSentence>0</SpecSentence>
-			<CompareDate>45156,3731396759</CompareDate>
+			<CompareDate>45171,2210222917</CompareDate>
 			<SingleContext>0</SingleContext>
 		</AutoLearn>
 		<General>
@@ -112,7 +112,7 @@
 			<SkipUpdateVer4>0</SkipUpdateVer4>
 			<ListenUDPPort>1036</ListenUDPPort>
 			<ServerUDPPort>1037</ServerUDPPort>
-			<DoProxy>0</DoProxy>
+			<DoProxy>2</DoProxy>
 			<ProxyServer/>
 			<ProxyPort>80</ProxyPort>
 			<ProxyUsername/>
@@ -387,7 +387,7 @@
 			<SearchExact>0</SearchExact>
 		</Search>
 		<Statistics>
-			<StatsDate>45156,3745807639</StatsDate>
+			<StatsDate>45171,2733665046</StatsDate>
 			<TodayPhrases>0</TodayPhrases>
 			<TotalPhrases9>0</TotalPhrases9>
 			<TodayChars>0</TodayChars>
