@@ -13,21 +13,21 @@
 					<lastsentence>
 						<description>AutoComplete</description>
 						<location>C:\அறி\PhraseExpress\autolearn.pxp</location>
-						<guid>3FD569EE-B055-4E09-87C2-4D19172246FD</guid>
+						<guid>F9D5E225-9B81-45F7-838D-2D471354DBC9</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</lastsentence>
 					<lastused>
 						<description>Last Used</description>
 						<location>C:\அறி\PhraseExpress\lastused.pxp</location>
-						<guid>A9CCC272-163D-4A65-AE8F-245C3CB5739E</guid>
+						<guid>C3B5E543-315C-4FE8-B899-786E5A6AF97C</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</lastused>
 					<file>
 						<description>Local phrase file</description>
 						<location>C:\அறி\PhraseExpress\phrases.pxp</location>
-						<guid>540DBB3E-A586-4F6C-A3FA-60E30BE863D1</guid>
+						<guid>D39B87C1-A793-4546-B6DC-295831EC15A5</guid>
 						<cacheloaded>False</cacheloaded>
 						<level>1</level>
 					</file>
@@ -48,8 +48,8 @@
 			<SaveHistoryPaths/>
 		</PhraseFile>
 		<Other>
-			<DateOfFirstUse10>45170,9919986921</DateOfFirstUse10>
-			<DateOfFirstUseHash10>B14600061A7FF4278B36FA169DC7D9E5</DateOfFirstUseHash10>
+			<DateOfFirstUse10>45171,1865007755</DateOfFirstUse10>
+			<DateOfFirstUseHash10>01F7E00F25FA5F175410944C8905D7F9</DateOfFirstUseHash10>
 			<PayOff>49,95</PayOff>
 			<PaidOff>0</PaidOff>
 			<Version>14.0.167</Version>
@@ -387,7 +387,7 @@
 			<SearchExact>0</SearchExact>
 		</Search>
 		<Statistics>
-			<StatsDate>45171,2733665046</StatsDate>
+			<StatsDate>45171,415731331</StatsDate>
 			<TodayPhrases>0</TodayPhrases>
 			<TotalPhrases9>0</TotalPhrases9>
 			<TodayChars>0</TodayChars>
